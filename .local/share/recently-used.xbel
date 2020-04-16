@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/wilson/Downloads/3270.zip" added="2020-03-18T20:57:00Z" modified="2020-03-18T20:57:00Z" visited="2020-03-18T20:57:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-18T20:57:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/devicons-master.zip" added="2020-03-18T20:59:40Z" modified="2020-03-19T18:56:21Z" visited="2020-03-18T20:59:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-19T18:56:21Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/devicon-2.2.zip" added="2020-03-19T13:28:11Z" modified="2020-03-19T13:28:11Z" visited="2020-03-19T13:28:11Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-19T13:28:11Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/fontawesome-free-5.12.1-desktop.zip" added="2020-03-19T14:07:51Z" modified="2020-03-19T14:07:51Z" visited="2020-03-19T14:07:51Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-19T14:07:51Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/openlogo-nd.svg" added="2020-03-19T14:11:34Z" modified="2020-03-19T19:11:40Z" visited="2020-03-19T14:11:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-19T19:11:40Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/Alacritty-v0.4.2-rc2-ubuntu_18_04_amd64.deb" added="2020-03-19T18:39:57Z" modified="2020-03-19T18:39:57Z" visited="2020-03-19T18:39:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-19T18:39:57Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/Fonts.zip" added="2020-03-19T18:47:03Z" modified="2020-03-19T18:47:03Z" visited="2020-03-19T18:47:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-19T18:47:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/l.zip" added="2020-03-19T19:06:06Z" modified="2020-03-19T19:06:06Z" visited="2020-03-19T19:06:07Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-19T19:06:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///usr/share/fonts/svg/openlogo-nd.svg" added="2020-03-19T19:11:05Z" modified="2020-03-19T19:11:05Z" visited="2020-03-19T19:11:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-19T19:11:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/.local/share/fonts/fonts.zip" added="2020-03-19T19:13:58Z" modified="2020-03-19T19:17:49Z" visited="2020-03-19T19:13:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-19T19:17:49Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/.local/share/fonts/Fonts.zip" added="2020-03-19T19:17:21Z" modified="2020-03-19T19:17:21Z" visited="2020-03-19T19:17:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-19T19:17:21Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/.local/share/fonts" added="2020-03-19T20:35:06Z" modified="2020-03-19T20:35:06Z" visited="2020-03-19T20:35:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Font Manager" exec="&apos;font-manager %u&apos;" modified="2020-03-19T20:35:06Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/config" added="2020-03-20T02:05:03Z" modified="2020-03-20T02:05:03Z" visited="2020-03-20T02:05:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-20T02:05:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/i3-master.zip" added="2020-03-21T20:54:41Z" modified="2020-03-21T20:54:41Z" visited="2020-03-21T20:54:41Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-21T20:54:41Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/alacritty-master.zip" added="2020-03-21T20:57:56Z" modified="2020-03-21T20:57:56Z" visited="2020-03-21T20:57:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-21T20:57:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/raspberry-pi.svg" added="2020-03-23T00:07:38Z" modified="2020-03-23T00:07:38Z" visited="2020-03-23T00:07:38Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/svg+xml"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-23T00:07:38Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/warsaw_setup_64.deb" added="2020-03-24T16:16:17Z" modified="2020-03-24T16:16:17Z" visited="2020-03-24T16:16:17Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-24T16:16:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Dropbox/LOT%C3%89RICAS/propriet%C3%A1rios/comprovante%20de%20rendimentos%20Canec%C3%A3o.pdf" added="2020-03-27T16:50:43Z" modified="2020-03-27T16:52:24Z" visited="2020-03-27T16:50:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-27T16:52:24Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Dropbox/LOT%C3%89RICAS/propriet%C3%A1rios/comprovante%20de%20rendimentos%20A%20Sorte.pdf" added="2020-03-27T16:51:01Z" modified="2020-04-07T20:41:03Z" visited="2020-03-27T16:51:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-27T16:52:24Z" count="2"/>
+          <bookmark:application name="nautilus" exec="&apos;nautilus %u&apos;" modified="2020-04-07T20:41:03Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/FiraCode_2.zip" added="2020-03-28T01:21:18Z" modified="2020-03-28T01:21:18Z" visited="2020-03-28T01:21:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-28T01:21:18Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/.local/share/fonts/MacOS/SFNS.ttf" added="2020-03-28T11:44:56Z" modified="2020-03-28T11:44:56Z" visited="2020-03-28T11:44:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="font/ttf"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-28T11:44:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/.local/share/fonts/mononoki.zip" added="2020-03-28T12:49:31Z" modified="2020-03-28T12:49:31Z" visited="2020-03-28T12:49:31Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-28T12:49:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/GBPCEFwr64.deb" added="2020-03-30T14:12:12Z" modified="2020-03-30T14:12:12Z" visited="2020-03-30T14:12:12Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2020-03-30T14:12:12Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/zoom_amd64.deb" added="2020-03-30T22:04:30Z" modified="2020-03-30T22:04:30Z" visited="2020-03-30T22:04:30Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-30T22:04:30Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/2020-03-31-110030_528x641_scrot.png" added="2020-03-31T14:01:31Z" modified="2020-03-31T14:01:31Z" visited="2020-03-31T14:01:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-31T14:01:31Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/2020-03-31-164458_836x656_scrot.png" added="2020-03-31T19:45:13Z" modified="2020-03-31T19:45:13Z" visited="2020-03-31T19:45:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-31T19:45:13Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/NFS-e%20SITAE%20N%C2%B0%20275%20REF.03-2020.pdf" added="2020-03-31T20:15:23Z" modified="2020-03-31T20:15:34Z" visited="2020-03-31T20:15:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-31T20:15:34Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/2020-03-31-171551_1162x502_scrot.png" added="2020-03-31T20:16:05Z" modified="2020-03-31T20:16:05Z" visited="2020-03-31T20:16:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-03-31T20:16:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Dropbox/AC013D5A-5E18-479E-AF02-36F9FAABFCEC.JPG" added="2020-04-01T11:26:20Z" modified="2020-04-15T10:18:07Z" visited="2020-04-01T11:26:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-15T10:18:07Z" count="30"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2020-04-14T15:58:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/2020-04-03-213241_1438x898_scrot.png" added="2020-04-04T00:32:56Z" modified="2020-04-04T00:32:56Z" visited="2020-04-04T00:32:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-04T00:32:56Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/2020-04-04-051140_1415x823_scrot.png" added="2020-04-04T10:59:28Z" modified="2020-04-04T10:59:28Z" visited="2020-04-04T10:59:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-04T10:59:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/2020-04-04-051540_696x334_scrot.png" added="2020-04-04T10:59:28Z" modified="2020-04-04T10:59:28Z" visited="2020-04-04T10:59:28Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-04T10:59:28Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/2020-04-04-042928_1439x899_scrot.png" added="2020-04-04T15:52:45Z" modified="2020-04-04T15:52:45Z" visited="2020-04-04T15:52:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-04T15:52:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/EUzADD5XkAA9HnK.jpeg" added="2020-04-05T17:28:59Z" modified="2020-04-12T12:52:54Z" visited="2020-04-05T17:28:59Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-12T12:52:54Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/2020-04-06-104606_979x282_scrot.png" added="2020-04-06T13:46:17Z" modified="2020-04-06T13:46:17Z" visited="2020-04-06T13:46:18Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-06T13:46:17Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/2020-04-06-161235_632x368_scrot.png" added="2020-04-06T19:12:40Z" modified="2020-04-06T19:12:40Z" visited="2020-04-06T19:12:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-06T19:12:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/2020-04-06-161721_824x310_scrot.png" added="2020-04-06T19:17:26Z" modified="2020-04-06T19:17:26Z" visited="2020-04-06T19:17:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-06T19:17:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/0404.xlsm" added="2020-04-07T13:15:15Z" modified="2020-04-07T13:15:22Z" visited="2020-04-07T13:15:15Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.ms-excel.sheet.macroEnabled.12"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-07T13:15:22Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Dropbox/LOT%C3%89RICAS/propriet%C3%A1rios/1768%20-%20Altera%C3%A7%C3%A3o%20Contratual%20WMF%20Sistemas%2005-08-2019.pdf" added="2020-04-07T20:40:53Z" modified="2020-04-07T20:40:53Z" visited="2020-04-07T20:40:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="nautilus" exec="&apos;nautilus %u&apos;" modified="2020-04-07T20:40:53Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/virtualbox-6.1_6.1.4-136177_Debian_buster_amd64.deb" added="2020-04-08T10:48:23Z" modified="2020-04-08T10:48:23Z" visited="2020-04-08T10:48:23Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-08T10:48:23Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/Dump-CeV01%20(compactado).zip" added="2020-04-08T13:14:02Z" modified="2020-04-08T13:14:02Z" visited="2020-04-08T13:14:03Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-08T13:14:02Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/Internet----banking%20cAIXA.pdf" added="2020-04-09T15:37:26Z" modified="2020-04-15T09:44:52Z" visited="2020-04-09T15:37:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-15T09:44:52Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/2020-04-09-181354_872x592_scrot.png" added="2020-04-09T21:15:19Z" modified="2020-04-09T21:15:19Z" visited="2020-04-09T21:15:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-09T21:15:19Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/EVRWiALWAAEtvyK.jpeg" added="2020-04-11T00:07:52Z" modified="2020-04-15T08:41:50Z" visited="2020-04-11T00:07:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-15T08:41:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/003.txt" added="2020-04-11T06:38:06Z" modified="2020-04-15T09:19:21Z" visited="2020-04-11T06:38:06Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-15T09:19:21Z" count="11"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/7CEpYufQsgMBlAXx-b3T3KEWwy.nodelx005_nbcinter02a-lx005.txt" added="2020-04-11T21:11:14Z" modified="2020-04-12T12:41:35Z" visited="2020-04-11T21:11:14Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-12T12:41:35Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Dropbox/7CxdniWfPbkLYfhseuXR1-T7au.nodelx465_nbcinter02a-lx465.txt" added="2020-04-12T11:32:40Z" modified="2020-04-12T11:32:40Z" visited="2020-04-12T11:32:40Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2020-04-12T11:32:40Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Dropbox/teste" added="2020-04-12T11:45:42Z" modified="2020-04-12T11:45:42Z" visited="2020-04-12T11:45:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-12T11:45:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Dropbox/BD279239-B3C3-4822-8174-37021E9E5A68.JPG" added="2020-04-12T11:46:35Z" modified="2020-04-15T08:21:17Z" visited="2020-04-12T11:46:35Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-15T08:21:17Z" count="16"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Dropbox/initial%20install" added="2020-04-12T11:48:00Z" modified="2020-04-12T11:48:00Z" visited="2020-04-12T11:48:00Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-12T11:48:00Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Dropbox/UNIX%20and%20Linux%20System%20Administration%20Handbook.pdf" added="2020-04-12T12:46:43Z" modified="2020-04-14T15:58:08Z" visited="2020-04-12T12:46:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-14T15:17:48Z" count="7"/>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2020-04-14T15:58:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Dropbox/emmet.completao" added="2020-04-12T12:47:26Z" modified="2020-04-12T12:47:26Z" visited="2020-04-12T12:47:26Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-12T12:47:26Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/003.csv" added="2020-04-12T12:49:57Z" modified="2020-04-15T09:13:50Z" visited="2020-04-12T12:49:57Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/csv"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-15T09:13:50Z" count="93"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/003" added="2020-04-12T12:50:25Z" modified="2020-04-13T04:14:59Z" visited="2020-04-12T12:50:25Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-13T04:14:59Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/EVRWiALWAAEtvyK.exe" added="2020-04-12T12:53:22Z" modified="2020-04-15T09:45:34Z" visited="2020-04-12T12:53:22Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-ms-dos-executable"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-15T09:45:34Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/003.jpg" added="2020-04-12T12:54:36Z" modified="2020-04-15T09:14:40Z" visited="2020-04-12T12:54:36Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/jpeg"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-15T09:14:40Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/ubuntu-18.04.4-desktop-amd64.iso" added="2020-04-13T19:49:01Z" modified="2020-04-13T19:49:01Z" visited="2020-04-13T19:49:01Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-13T19:49:01Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/debian-live-10.3.0-amd64-standard+nonfree.iso" added="2020-04-13T19:54:55Z" modified="2020-04-13T19:54:55Z" visited="2020-04-13T19:54:55Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-13T19:54:55Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads/deepin-15.11-amd64.iso" added="2020-04-13T19:58:20Z" modified="2020-04-13T19:58:20Z" visited="2020-04-13T19:58:20Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-cd-image"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-13T19:58:20Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/2020-04-13-181227_1307x484_scrot.png" added="2020-04-13T21:12:43Z" modified="2020-04-14T15:04:42Z" visited="2020-04-13T21:12:43Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-14T15:04:42Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Downloads" added="2020-04-13T22:51:58Z" modified="2020-04-13T22:51:58Z" visited="2020-04-13T22:51:58Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="codium" exec="&apos;codium %u&apos;" modified="2020-04-13T22:51:58Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Dropbox/2020-04-10-211349_1418x857_scrot.png" added="2020-04-14T15:15:44Z" modified="2020-04-14T15:17:15Z" visited="2020-04-14T15:15:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-14T15:17:15Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Dropbox/LOT%C3%89RICAS/Canec%C3%A3o-Documentos/cad%20shop.pdf" added="2020-04-14T15:18:13Z" modified="2020-04-14T18:58:01Z" visited="2020-04-14T15:18:13Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/pdf"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-14T18:58:01Z" count="29"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/Dropbox/DEVELOPER/vscodeteste" added="2020-04-15T11:27:27Z" modified="2020-04-15T11:27:27Z" visited="2020-04-15T11:27:27Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="codium" exec="&apos;codium %u&apos;" modified="2020-04-15T11:27:27Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/wilson/.local/share/scripts/formata_extrato_cef.gawk" added="2020-04-15T21:50:04Z" modified="2020-04-15T21:50:04Z" visited="2020-04-15T21:50:04.730714Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="chromium" exec="&apos;chromium %u&apos;" modified="2020-04-15T21:50:04Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

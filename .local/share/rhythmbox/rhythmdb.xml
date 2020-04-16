@@ -1,0 +1,2842 @@
+<?xml version="1.0" standalone="yes"?>
+<rhythmdb version="2.0">
+  <entry type="song">
+    <title>enrolados vejo enfim a luz brilhar( sylvia salustti, raphael rossato).mp3</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>216</duration>
+    <file-size>5205991</file-size>
+    <location>file:///home/wilson/Dropbox/PESSOAL/enrolados%20vejo%20enfim%20a%20luz%20brilhar(%20sylvia%20salustti,%20raphael%20rossato).mp3</location>
+    <mtime>1392137404</mtime>
+    <first-seen>1585331717</first-seen>
+    <last-seen>1585332513</last-seen>
+    <bitrate>192</bitrate>
+    <date>0</date>
+    <media-type>audio/mpeg</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="song">
+    <title>sou um s&#xF3;.wav</title>
+    <genre>Unknown</genre>
+    <artist>Unknown</artist>
+    <album>Unknown</album>
+    <duration>173</duration>
+    <file-size>30543240</file-size>
+    <location>file:///home/wilson/Dropbox/PESSOAL/sou%20um%20s%C3%B3.wav</location>
+    <mtime>1395723797</mtime>
+    <first-seen>1585331719</first-seen>
+    <last-seen>1585332513</last-seen>
+    <bitrate>1411</bitrate>
+    <date>0</date>
+    <media-type>audio/x-wav</media-type>
+    <composer>Unknown</composer>
+  </entry>
+  <entry type="iradio">
+    <title>WKNC 88.1 FM (NC State) (Low Quality)</title>
+    <genre>Music</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://wknc.sma.ncsu.edu:8000/wkncmq.ogg.m3u</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>WKNC 88.1 FM (NC State) (High Quality)</title>
+    <genre>Music</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://wknc.sma.ncsu.edu:8000/wknchq.ogg.m3u</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>HBR1.com - Dream Factory</title>
+    <genre>Ambient</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://ubuntu.hbr1.com:19800/ambient.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>StartFM - 94.2MHz, Vilnius University, Lithuania</title>
+    <genre>Underground</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://eteris.startfm.lt/startfm.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>WUVT-FM 90.7 (Virginia Tech) (Medium Quality)</title>
+    <genre>College Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>https://stream.wuvt.vt.edu/wuvt.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>WUVT-FM 90.7 (Virginia Tech) (High Quality)</title>
+    <genre>College Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>https://stream.wuvt.vt.edu/wuvt-hq.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>WSUM 91.7 FM (University of Wisconsin)</title>
+    <genre>College Radio</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://vu.wsum.wisc.edu/wsumlive.m3u</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Paradise (High Quality)</title>
+    <genre>Eclectic</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream-dc1.radioparadise.com/rp_192m.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>Radio Paradise (Low Quality)</title>
+    <genre>Eclectic</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://stream-dc1.radioparadise.com/rp_96m.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>KWUR 90.3 FM St. Louis Underground Radio</title>
+    <genre>Unknown</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://www.kwur.com/icecast/kwurogg.m3u</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>wbur.org - Boston's NPR news source</title>
+    <genre>News</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://audio.wbur.org/stream/live_ogg.m3u</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>HBR1.com - I.D.M. Tranceponder</title>
+    <genre>Trance</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://ubuntu.hbr1.com:19800/trance.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="iradio">
+    <title>HBR1.com - Tronic Lounge</title>
+    <genre>House</genre>
+    <artist></artist>
+    <album></album>
+    <location>http://ubuntu.hbr1.com:19800/tronic.ogg</location>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/23-crazyones01.jpg</location>
+    <mtime>1327338154</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/config.sub</location>
+    <mtime>1584999507</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/LIVRO-%20CHURRASCO.pdf</location>
+    <mtime>1492014074</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Pend%C3%AAncias%20com%20o%20Lala%20-%20rsrs.xlsx</location>
+    <mtime>1383831591</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Screen%20Shot%202020-03-17%20at%2009.29.51.png</location>
+    <mtime>1584448194</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/i3-migrate-config-to-v4</location>
+    <mtime>1584999502</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Kumon.doc</location>
+    <mtime>1102199290</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/dotfiles/github-dark-script.user.js</location>
+    <mtime>1583455197</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Namoro.xls</location>
+    <mtime>1203030312</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/release.sh</location>
+    <mtime>1584999502</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/Screenshots/Screenshot%202020-02-24%2019.13.42.png</location>
+    <mtime>1582557274</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/109051_WILSON%2520MORAIS%2520FAUSTINO.pdf</location>
+    <mtime>1514996250</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Catalina%20Shoreline.heic</location>
+    <mtime>1573714430</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Usu%C3%A1rio:%2062.954.839:0001-16%20-%20NF-e%20-%20Nota%20Fiscal%20Eletr%C3%B4nica%20de%20Servi%C3%A7os%20-%20S%C3%A3o%20Paulo.pdf</location>
+    <mtime>1577724538</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/El%20Capitan%202.jpg</location>
+    <mtime>1573714431</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/24-jun-2009%20bb.lindox.xls</location>
+    <mtime>1246280956</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/IMG_1987.jpg</location>
+    <mtime>1337017758</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/Screenshots/Screenshot%202020-03-20%2020.07.15.png</location>
+    <mtime>1584745711</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/DARF%2021B.pdf</location>
+    <mtime>1409849814</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Fita%20VHS%201%2028foda.m4v</location>
+    <mtime>1313562385</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Filmes%20L%C3%A9sbicos%20Para%20Venda%20ou%20Troca.doc</location>
+    <mtime>1168093768</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Tenda_2008_2010.xls</location>
+    <mtime>1315235536</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Screen%20Shot%202020-03-17%20at%2009.29.46.png</location>
+    <mtime>1584448188</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/EradaExperiencia-e-book2.0.pdf</location>
+    <mtime>1570960411</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/IMG_1668.jpg</location>
+    <mtime>1394488388</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Catalina%20Rock.heic</location>
+    <mtime>1573714430</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/logos3-12.jpg</location>
+    <mtime>1397570422</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Fita%20VHS%201%2028%20(HD).m4v</location>
+    <mtime>1313560296</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Color%20Burst%201.jpg</location>
+    <mtime>1573714431</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/S%C3%A3o%20Paulo%20-%20Consola%C3%A7%C3%A3o%20-%20Rua%20Fernando%20de%20Albuquerque,%2010%20January%202020/IMG_0129.jpg</location>
+    <mtime>1578671058</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/PNVL3%20(DIMED%20ON)%20-%20Raio-x%20-%20GuiaInvest.pdf</location>
+    <mtime>1579032935</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Ink%20Cloud.jpg</location>
+    <mtime>1573714431</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/image002.jpg</location>
+    <mtime>1318681945</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Filmes%20GLS.xls</location>
+    <mtime>1168093778</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/IMG_1882.jpg</location>
+    <mtime>1380400038</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/pseudo-doc.doxygen</location>
+    <mtime>1584999502</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/IMG_1988.JPG</location>
+    <mtime>1333579209</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/S%C3%A3o%20Paulo%20-%20Consola%C3%A7%C3%A3o%20-%20Rua%20Fernando%20de%20Albuquerque,%2010%20January%202020/IMG_0130.jpg</location>
+    <mtime>1578671058</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Abstract%202.jpg</location>
+    <mtime>1573714430</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/xrop.cam</location>
+    <mtime>1585221653</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/RELEASE-NOTES-4.18</location>
+    <mtime>1584999502</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Fonts/SFNSDisplayCondensed-Ultralight.otf</location>
+    <mtime>1547067431</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/test-driver</location>
+    <mtime>1584999507</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/DSV%20Digital.pdf</location>
+    <mtime>1579019149</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/INFORMATIVO%20INSTITUCIONAL%20PARA%20HOME%20OFFICE%201%20(1).docx</location>
+    <mtime>1407984145</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Over%203%20million%20unique%20hits.doc</location>
+    <mtime>1235683626</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Screen%20Shot%202020-03-17%20at%2009.30.16.png</location>
+    <mtime>1584448222</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Fonts/SFNSDisplayCondensed-Regular.otf</location>
+    <mtime>1547067431</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/senhorincrivel.jpg</location>
+    <mtime>1318078419</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/PWI.zip</location>
+    <mtime>1522199946</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/peso.xls</location>
+    <mtime>1129040454</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/initial%20install</location>
+    <mtime>1585330260</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/canecao</location>
+    <mtime>1578661856</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Fonts/ZapfDingbats.ttf</location>
+    <mtime>1573294054</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Reflection%203.jpg</location>
+    <mtime>1573714432</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/EditalSantanderCoders.pdf</location>
+    <mtime>1572371043</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/C%C3%B3pia%202%20de%20Perfis.xlsx</location>
+    <mtime>1329359090</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Desert%206.jpg</location>
+    <mtime>1573714431</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/ComprovantePagamento.pdf</location>
+    <mtime>1577469115</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Screen%20Shot%202020-03-17%20at%2009.30.10.png</location>
+    <mtime>1584448215</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/J%C3%A1%20confundi%20sentimentos.doc</location>
+    <mtime>1139887950</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Fonts/Symbol.ttf</location>
+    <mtime>1573294054</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/001%20-%20Primeiro%20ano.pdf</location>
+    <mtime>1570390449</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Tenda_2011.xls</location>
+    <mtime>1315235540</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Catalina%20Day.heic</location>
+    <mtime>1573714431</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Screen%20Shot%202020-03-17%20at%2009.29.58.png</location>
+    <mtime>1584448204</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Abstract%201.jpg</location>
+    <mtime>1573714430</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Screen%20Shot%202020-03-17%20at%2009.29.57.png</location>
+    <mtime>1584448199</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Desert%203.jpg</location>
+    <mtime>1573714431</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/factoring-x-agiotagem.pdf</location>
+    <mtime>1397572914</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/install-sh</location>
+    <mtime>1584999507</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/teste.txt</location>
+    <mtime>1584822543</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Screen%20Shot%202020-03-17%20at%2009.29.53.png</location>
+    <mtime>1584448196</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/PACKAGE-MAINTAINER</location>
+    <mtime>1584999502</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/I3_VERSION</location>
+    <mtime>1584999502</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/IMG_1450.JPG</location>
+    <mtime>1392986427</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/OgAAAML0-iXmPm_81B3RzQwtr5BIN-pO9izXOfxzcig50QhpuyBWUT6SPlpergmBG0Rj7Up7hoEWnmB4FDoWBY8pll0Am1T1UC_1JZ9u9gxFIRwKpw0hl5eYkGXC.jpg</location>
+    <mtime>1275484478</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/MX-M453N_20120518_023950.pdf</location>
+    <mtime>1337344559</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/ipfuck.zip</location>
+    <mtime>937700468</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/EDITAL%201%C3%9F%20LEIL%C2%ABO%20P%C3%88BLICO%200032.2014.pdf</location>
+    <mtime>1397477738</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/aclocal.m4</location>
+    <mtime>1584999505</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/README.md</location>
+    <mtime>1584999502</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Fonts/SFNSDisplayCondensed-Light.otf</location>
+    <mtime>1547067430</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Tenda%20-%20Nando.xlsx</location>
+    <mtime>1327017392</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/DSV%20Digital2.pdf</location>
+    <mtime>1579019261</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/warsaw_setup_64.deb</location>
+    <mtime>1585066580</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/oi_amigo.zip</location>
+    <mtime>1138481782</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Yosemite.jpg</location>
+    <mtime>1573714432</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/%C3%8Dndices%20Econ%C3%B4micos.docx</location>
+    <mtime>1317562678</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/exibirDocumento.pdf</location>
+    <mtime>1554185259</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/C%C3%B3pia%20de%20Perfis.xlsx</location>
+    <mtime>1329359112</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/DEPENDS</location>
+    <mtime>1584999502</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/DEVELOPER/1_vf2oGeiTyUMNPDISytRnmw.png</location>
+    <mtime>1571750206</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Namoro%20(2).xls</location>
+    <mtime>1203030312</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/i3-sensible-terminal</location>
+    <mtime>1584999502</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/PLANILHA%20PARA%20TROCA%20DE%20CHEQUE%20S.xlsm</location>
+    <mtime>1544149968</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/IMG_2791.jpg</location>
+    <mtime>1380335187</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/IMG_2008.jpg</location>
+    <mtime>1380406057</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Resumo_Comercial_Personnalite.pdf</location>
+    <mtime>1579813548</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/Makefile.am</location>
+    <mtime>1584999502</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/OgAAAKkAsXrUaAmL3zRG2ZvvzXDo23hewNgjqT_N5MWwWhY7eCFThflsv4oCwoPb-NCJioDftjw7Bc7BYCfT-hDcmBwAm1T1UIQP5S7b1AnPaE_9bWWuZIOJUUwr.jpg</location>
+    <mtime>1275484460</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Flower%207.jpg</location>
+    <mtime>1573714431</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Eleven%20Financial%20Research%20-%20access%20maio19.pdf</location>
+    <mtime>1556982680</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Flower%206.jpg</location>
+    <mtime>1573714431</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Flower%205.jpg</location>
+    <mtime>1573714431</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Color%20Burst%202.jpg</location>
+    <mtime>1573714431</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/BD279239-B3C3-4822-8174-37021E9E5A68.JPG</location>
+    <mtime>1571239202</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/generate-command-parser.pl</location>
+    <mtime>1584999502</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Excel.zip</location>
+    <mtime>1520471859</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/configure.ac</location>
+    <mtime>1584999502</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Reflection%202.jpg</location>
+    <mtime>1573714432</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Fonts/SFNSDisplayCondensed-Black.otf</location>
+    <mtime>1547067431</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/INSTRUMENTO%20PARTICULAR%20DE%20RECIBO%20DE%20SINAL%20DE%20NEG%C3%93CIO.docx</location>
+    <mtime>1336904481</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/ILMO%20SR%20OFICIAL%20DO%201%C2%BA%20REGISTRO%20OFICIAL%20DE%20IM%C3%93VEIS%20DE%20BARUERI.PDF</location>
+    <mtime>1409234953</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/taoup.pdf</location>
+    <mtime>1576317765</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/45021_377504672341873_2103808114_n.jpg</location>
+    <mtime>1356396388</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Rafinha%20Wrasse(360p_H.264-AAC).m4v</location>
+    <mtime>1350334778</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/47982.pdf</location>
+    <mtime>1409234153</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Pasta%20Wilsinho%20(2).zip</location>
+    <mtime>1394729816</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/eBook-Guia-Suno-Small-Caps.pdf</location>
+    <mtime>1569959254</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Wave(480p_H.264-AAC).m4v</location>
+    <mtime>1350334813</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/UNIX%20and%20Linux%20System%20Administration%20Handbook.pdf</location>
+    <mtime>1582472974</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Desert%205.jpg</location>
+    <mtime>1573714431</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Presen%C3%A7a%20na%20Tenda%20da%20Pedra.xlsx</location>
+    <mtime>1327019689</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/Screenshots/Screenshot%202020-03-18%2008.40.55.png</location>
+    <mtime>1584531765</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/IMG_0339.jpg</location>
+    <mtime>1364663777</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/LICENSE</location>
+    <mtime>1584999502</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Backup%20Presen%C3%A7a%20na%20Tenda%20da%20Pedra.xlsx</location>
+    <mtime>1325253917</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Fonts/Keyboard.ttf</location>
+    <mtime>1573294054</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Abstract%203.jpg</location>
+    <mtime>1573714430</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/i3-sensible-editor</location>
+    <mtime>1584999502</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/RG-CPF-Endereco-C%C3%A9sar.pdf</location>
+    <mtime>1577108535</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Fonts/Apple%20Braille.ttf</location>
+    <mtime>1573294054</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Sierra.jpg</location>
+    <mtime>1573714432</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/asorte</location>
+    <mtime>1578662142</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/NWZ-S540%20WALKMAN%20Guide.lnk</location>
+    <mtime>1274413466</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/caverna%20do%20drag%C3%A3o.doc</location>
+    <mtime>1129041184</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/GerarPDF.aspx-2.pdf</location>
+    <mtime>1408040015</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Desert%202.jpg</location>
+    <mtime>1573714431</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Educa%C3%A7%C3%A3o.pdf</location>
+    <mtime>1565294195</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/config.guess</location>
+    <mtime>1584999507</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Hello.docx</location>
+    <mtime>1382466367</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Reflection%204.jpg</location>
+    <mtime>1573714432</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/DEVELOPER/Kali-Linux-Revealed-1st-edition.pdf</location>
+    <mtime>1585148422</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/snd-logo.gif</location>
+    <mtime>1317305886</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/ar-lib</location>
+    <mtime>1584999507</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/km-litro.xlsx</location>
+    <mtime>1290314932</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/AC013D5A-5E18-479E-AF02-36F9FAABFCEC.JPG</location>
+    <mtime>1571224524</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Fatura-0039053423.pdf</location>
+    <mtime>1407872429</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Debian%20Setup/xbacklight</location>
+    <mtime>1584706488</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Sierra%202.jpg</location>
+    <mtime>1573714432</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Fonts/SFNSDisplayCondensed-Bold.otf</location>
+    <mtime>1547067430</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Fatura-0201383851.pdf</location>
+    <mtime>1407872499</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/depcomp</location>
+    <mtime>1584999507</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/gestores-1.pdf</location>
+    <mtime>1566738403</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Snow%20Leopard.rtf</location>
+    <mtime>1313959310</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/i3-dmenu-desktop</location>
+    <mtime>1584999502</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Solar%20Gradients.heic</location>
+    <mtime>1573714432</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/i3-sensible-pager</location>
+    <mtime>1584999502</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/A%C3%A7%C3%B5es.numbers</location>
+    <mtime>1563835867</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Flower%209.jpg</location>
+    <mtime>1573714431</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Red%20Pub.xls</location>
+    <mtime>1116355788</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/lolcat</location>
+    <mtime>1583948481</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/DEVELOPER/seletores-esquema%20-%20C%C3%B3pia.pdf</location>
+    <mtime>1569158622</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/peso%20%20namorada.xls</location>
+    <mtime>1162752948</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Desert%204.jpg</location>
+    <mtime>1573714431</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/All%20Contacts.vcf</location>
+    <mtime>1582063830</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Screen%20Shot%202020-03-17%20at%2009.30.03.png</location>
+    <mtime>1584448210</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/DESCONTO-DE-CHEQUES-PRE-DATADOS-E-DUPLICATAS-POR-GIOVANNI-PEREIRA-PITANGUI_COM.xlsx</location>
+    <mtime>1543579506</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/exe016-teste-do-chaves.html</location>
+    <mtime>1561642784</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/enat.pdf</location>
+    <mtime>1565354704</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/fwdmusicadiscodisantanaaplantaao.zip</location>
+    <mtime>1291491742</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/frases-sobre-injustica-15.jpg</location>
+    <mtime>1370242175</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/DEVELOPER/anuario-consumidor-moderno-2018-2019-profissoes-presente-e-do-futuro-digital-house.jpg</location>
+    <mtime>1569806838</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/logo.svg</location>
+    <mtime>1584999502</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/148101_446329272093729_1972602534_n.jpg</location>
+    <mtime>1414841769</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/IMG_2258.jpg</location>
+    <mtime>1339266821</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/livros%20e%20dvds.xls</location>
+    <mtime>1136792704</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/IR2.pdf</location>
+    <mtime>1391777422</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/missing</location>
+    <mtime>1584999507</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/221609_145975678804361_100001757906946_290058_4157436_n.jpg</location>
+    <mtime>1306713443</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/MOV03481.MPG</location>
+    <mtime>1199546983</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Numbers.zip</location>
+    <mtime>1520471574</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/FICHA%20EM%20BRANCO%20(3).xls</location>
+    <mtime>1407984148</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/compile</location>
+    <mtime>1584999507</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Fonts/SFNSDisplayCondensed-Medium.otf</location>
+    <mtime>1547067430</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/340x.gif</location>
+    <mtime>1310391938</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Debian%20Setup/initial%20install</location>
+    <mtime>1584823600</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/IRPJ%203%C2%BA%20TRIMESTRE%20DE%202014%20COD.%202089%20VENC.%2031.10.2014.pdf</location>
+    <mtime>1414755954</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Contato%20e%20554%20outros.vcf</location>
+    <mtime>1393626821</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/OgAAABn3hu_PrHYaWMZhRrkuzURjw9vymqWXvD6hj71hGKf2nVluUQIk2XYaxjHbXHJlvxTZq2X5-MZhI7JDdd1z-OAAm1T1UI71cberbKOwbStwlTbXIAVIaY3c.jpg</location>
+    <mtime>1273088328</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Adm.%20Povo%20da%20Tenda%207.xlsx</location>
+    <mtime>1321993015</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Im%C3%B3veis%20-%20Fluxo%20de%20Pagamento%20Compilado.xlsx</location>
+    <mtime>1336354780</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/EDITAL%201%C3%9F%20LEIL%C2%ABO%20P%C3%88BLICO%200032.2014.doc</location>
+    <mtime>1396285518</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/VirtualBox-6.1.0-135406-OSX.dmg</location>
+    <mtime>1576518451</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Jan09.xls</location>
+    <mtime>1230663066</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Wuthering%20Heights%20(1993).avi</location>
+    <mtime>1401763071</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Picanto.xlsx</location>
+    <mtime>1285715338</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Flower%2010.jpg</location>
+    <mtime>1573714431</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/Screenshots/Screenshot%202020-02-24%2019.13.42(2).png</location>
+    <mtime>1582557275</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Moon-032-Shine-1366x768.jpg</location>
+    <mtime>1312161830</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/core</location>
+    <mtime>1582771300</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Screen%20Shot%202020-03-17%20at%2009.29.49.png</location>
+    <mtime>1584448192</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/config.h.in</location>
+    <mtime>1584999506</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Pedido%20-%20%20Pessoa%20F%C3%ADsica%20-%20Gateway%20(2).doc</location>
+    <mtime>1235574172</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Screen%20Shot%202020-03-17%20at%2009.29.39.png</location>
+    <mtime>1584448185</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Fin08.xls</location>
+    <mtime>1259177179</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/7CxdniWfPbkLYfhseuXR1-T7au.nodelx465_nbcinter02a-lx465.txt</location>
+    <mtime>1582808321</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/annie.docx</location>
+    <mtime>1518668634</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/MOV01584.MPG</location>
+    <mtime>1254256490</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/extrato-2.PDF</location>
+    <mtime>1429632886</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Reflection%201.jpg</location>
+    <mtime>1573714432</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/image1-3.JPG</location>
+    <mtime>1418055698</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/OAAAAItPuQe-Gwus5ZcpjbT7q0FTRrldO8gDdH3UDneERRgpM_qypWb_IsELXxpFebsZSa4qVkK4Y1Ki9_2jpfzKZiQAm1T1UPW94bqdMJCzAIOE4JkB2CEB6Ltf.jpg</location>
+    <mtime>1275484474</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/Makefile.in</location>
+    <mtime>1584999507</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/O%20ano%202000%20%C3%A9%20um%20ano%20como%20outro%20qualquer.doc</location>
+    <mtime>985359966</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/GerarPDF.aspx.pdf</location>
+    <mtime>1407872523</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/OgAAAAFULhz3aaaits1AqIdz5Z4A79tlM5V2yOZ_ZPbZnn3AUyYBeWzlX00uSbVMS1qzLgKPRVNScG0hxFwfciWT-hsAm1T1UKWIyosfKNHsSZyMpxZKhTQLHA3Y.jpg</location>
+    <mtime>1271336176</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Q584D5X3.pdf</location>
+    <mtime>1578361366</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Leil%C3%A3o%20CEF.pdf</location>
+    <mtime>1397477890</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/i%20love%20you.jpg</location>
+    <mtime>1312161536</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/IMG_1998.jpg</location>
+    <mtime>1380405925</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Screen%20Shot%202020-03-17%20at%2009.29.55.png</location>
+    <mtime>1584448197</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/image1-2.JPG</location>
+    <mtime>1418055570</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/S%C3%A3o%20Paulo%20-%20Consola%C3%A7%C3%A3o%20-%20Rua%20Fernando%20de%20Albuquerque,%2010%20January%202020/IMG_0131.jpg</location>
+    <mtime>1578671058</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/190629_AGF_MDI.pdf</location>
+    <mtime>1562248853</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Screen%20Shot%202020-01-07%20at%2010.28.02.png</location>
+    <mtime>1578403702</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/OgAAACP5y1oVRAVjoACHzdDdJSlADgyAcQrjGJP6ziLS4Bk7rO8BSIuZKDER0r5MW3lHnYpzfS0_Jlm4lraWptYTxQgAm1T1UBh1PaXFw8PYdMZfaB6NQPwFn59V.jpg</location>
+    <mtime>1275484465</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/DEVELOPER/new-super-mario-bros.-u-deluxe.jpg</location>
+    <mtime>1569799041</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/El%20Capitan.jpg</location>
+    <mtime>1573714431</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/S%C3%A3o%20Paulo%20-%20Consola%C3%A7%C3%A3o%20-%20S%C3%A3o%20Paulo,%2023%20December%202019/IMG_9955.jpg</location>
+    <mtime>1577110198</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Indiana%20Pateta.xlsx</location>
+    <mtime>1518668549</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Screen%20Shot%202020-03-17%20at%2009.29.48.png</location>
+    <mtime>1584448190</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Color%20Burst%203.jpg</location>
+    <mtime>1573714431</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Obesidade%20%C3%A9%20a%20%20maior%20causa%20de%20discrimina%C3%A7%C3%A3o.doc</location>
+    <mtime>973658254</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/OgAAAFvoSwjtgt6mbY37RIZYKTUnQ0OODO2utB_m-jsWmhzUEoq6LcEQZWp85QoKASOMrkdmpb_pwbdNRofwZBD4XA4Am1T1UKhbVcRQDkujmutPDIvtNpkqa6sT.jpg</location>
+    <mtime>1275484453</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Fonts/SFNSDisplayCondensed-Thin.otf</location>
+    <mtime>1547067430</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/PLANILHA%20DE%20FUNCIONARIOS.xlsx</location>
+    <mtime>1544642168</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/configure</location>
+    <mtime>1584999506</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Screen%20Shot%202020-03-17%20at%2009.29.13.png</location>
+    <mtime>1584448159</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Ler%20todo%20dia!.pdf</location>
+    <mtime>1565784964</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Desert%207.jpg</location>
+    <mtime>1573714431</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Fita%20VHS%201%2028.m4v</location>
+    <mtime>1313561108</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/ENDERE%C3%87O.doc</location>
+    <mtime>1020719922</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/04-calculo-de-juros-desconto-v-3-4%20(1).xlsm</location>
+    <mtime>1543582729</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/templo_novo_031.jpg</location>
+    <mtime>1317306539</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/photo.jpeg</location>
+    <mtime>1418055363</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Planilha%20de%20Fluxo%20de%20Caixa%204.0%20-%20Demo.xlsx</location>
+    <mtime>1542906031</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Portal%20Poupatempo.pdf</location>
+    <mtime>1578920950</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Fonts/SFNSDisplayCondensed-Semibold.otf</location>
+    <mtime>1547067430</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/IMG_1880.jpg</location>
+    <mtime>1380399911</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/OgAAAAZbLHWe07fEXagYMl-zpmEXO-_ORSmj5OBGdGa2rNs0XlCGdkmp6uJsvZTgNYMp89h0ZJZdXzjr-6lAMOYM1wIAm1T1UIuj7jTiYLkS-YoPJXukaw4XSTcB%20(1).jpg</location>
+    <mtime>1271205144</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Downloads/i3-gaps/i3-save-tree</location>
+    <mtime>1584999502</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/SIMULACAO_DESCONTO_CHEQUES_DUPLICATAS.xls</location>
+    <mtime>1543579540</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/LEIA%20ANTES%20DE%20USAR.txt</location>
+    <mtime>1365048326</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Detalhes.xlsx</location>
+    <mtime>1362767662</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Fonts/LastResort.otf</location>
+    <mtime>1573294054</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Planilha_do_Holder_Beta_04.12.2018.xlsx</location>
+    <mtime>1544724930</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Curr%C3%ADculo%2012-jan-17.docx</location>
+    <mtime>1484245207</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Yosemite%203.jpg</location>
+    <mtime>1573714432</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/High%20Sierra.jpg</location>
+    <mtime>1573714431</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/eLav/Business%20Plan%20ELAV%20LAVANDERIA%20(1).pdf</location>
+    <mtime>1571510818</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Abstract%204.jpg</location>
+    <mtime>1573714430</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/edit.html</location>
+    <mtime>1396469459</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/quadrinhos.xlsx</location>
+    <mtime>1518668545</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Desert%201.jpg</location>
+    <mtime>1573714431</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Desktop%20Pictures/Yosemite%204.jpg</location>
+    <mtime>1573714432</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/desktopmba/Fonts/SFNSDisplayCondensed-Heavy.otf</location>
+    <mtime>1547067430</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+  <entry type="ignore">
+    <title></title>
+    <genre></genre>
+    <artist></artist>
+    <album></album>
+    <location>file:///home/wilson/Dropbox/PESSOAL/Namoro%20(3).xls</location>
+    <mtime>1256323079</mtime>
+    <date>0</date>
+    <media-type>application/octet-stream</media-type>
+  </entry>
+</rhythmdb>
