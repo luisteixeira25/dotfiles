@@ -1,0 +1,56 @@
+{
+   "app": {
+      "display_mode": "standalone",
+      "icon_color": "#828282",
+      "launch": {
+         "web_url": "https://pptr.dev/"
+      },
+      "linked_icons": [ {
+         "size": 32,
+         "url": "https://pptr.dev/favicons/android-chrome-192x192.png"
+      }, {
+         "size": 48,
+         "url": "https://pptr.dev/favicons/android-chrome-192x192.png"
+      }, {
+         "size": 64,
+         "url": "https://pptr.dev/favicons/android-chrome-192x192.png"
+      }, {
+         "size": 96,
+         "url": "https://pptr.dev/favicons/android-chrome-192x192.png"
+      }, {
+         "size": 128,
+         "url": "https://pptr.dev/favicons/android-chrome-192x192.png"
+      }, {
+         "size": 144,
+         "url": "https://pptr.dev/favicons/android-chrome-192x192.png"
+      }, {
+         "size": 256,
+         "url": "https://pptr.dev/favicons/android-chrome-384x384.png"
+      }, {
+         "size": 384,
+         "url": "https://pptr.dev/favicons/android-chrome-384x384.png"
+      } ],
+      "theme_color": "rgba(255,255,255,1)"
+   },
+   "description": "",
+   "icons": {
+      "128": "icons/128.png",
+      "144": "icons/144.png",
+      "192": "icons/192.png",
+      "256": "icons/256.png",
+      "32": "icons/32.png",
+      "384": "icons/384.png",
+      "48": "icons/48.png",
+      "64": "icons/64.png",
+      "96": "icons/96.png"
+   },
+   "key": "EmRKQRs3/vTKMu/bpkjsPKQymAV+tJpWG2MRalQyScI=",
+   "name": "pptr.dev",
+   "url_handlers": {
+      "scope": {
+         "matches": [ "https://pptr.dev/*" ],
+         "title": "pptr.dev"
+      }
+   },
+   "version": "2020.3.18.41490"
+}

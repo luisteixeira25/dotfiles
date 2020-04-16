@@ -1,0 +1,17 @@
+2020/04/15-08:34:24.196 3035 Reusing MANIFEST /home/wilson/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/MANIFEST-000001
+2020/04/15-08:34:24.198 3035 Recovering log #2487
+2020/04/15-08:34:24.198 3035 Reusing old log /home/wilson/.config/chromium/Default/Local Extension Settings/gighmmpiobklfepjocnamgkkbiglidom/002487.log 
+2020/04/15-08:35:26.749 318f Level-0 table #2491: started
+2020/04/15-08:35:26.818 318f Level-0 table #2491: 5099105 bytes OK
+2020/04/15-08:35:26.824 318f Delete type=0 #2487
+2020/04/15-08:35:26.826 318f Compacting 4@0 + 2@1 files
+2020/04/15-08:35:26.956 318f Generated table #2492@0: 1 keys, 5098907 bytes
+2020/04/15-08:35:26.961 318f Generated table #2493@0: 7 keys, 422 bytes
+2020/04/15-08:35:26.961 318f Compacted 4@0 + 2@1 files => 5099329 bytes
+2020/04/15-08:35:26.967 318f compacted to: files[ 0 2 1 0 0 0 0 ]
+2020/04/15-08:35:26.967 318f Delete type=2 #2484
+2020/04/15-08:35:26.967 318f Delete type=2 #2488
+2020/04/15-08:35:26.967 318f Delete type=2 #2491
+2020/04/15-08:35:26.967 318f Delete type=2 #2486
+2020/04/15-08:35:26.967 318f Delete type=2 #2481
+2020/04/15-08:35:26.967 318f Delete type=2 #2482

@@ -1,0 +1,173 @@
+2020/04/13-16:48:53.457 74e8 Recovering log #327
+2020/04/13-16:48:53.457 74e8 Level-0 table #330: started
+2020/04/13-16:48:53.474 74e8 Level-0 table #330: 857 bytes OK
+2020/04/13-16:48:53.507 74e8 Delete type=3 #319
+2020/04/13-16:48:53.507 74e8 Delete type=0 #327
+2020/04/13-16:49:39.632 8c4 Level-0 table #333: started
+2020/04/13-16:49:39.638 8c4 Level-0 table #333: 7935 bytes OK
+2020/04/13-16:49:39.645 8c4 Delete type=0 #331
+2020/04/13-16:49:39.645 8c4 Compacting 4@0 + 1@1 files
+2020/04/13-16:49:39.650 8c4 Generated table #334@0: 2 keys, 803 bytes
+2020/04/13-16:49:39.650 8c4 Compacted 4@0 + 1@1 files => 803 bytes
+2020/04/13-16:49:39.656 8c4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2020/04/13-16:49:39.656 8c4 Delete type=2 #330
+2020/04/13-16:49:39.656 8c4 Delete type=2 #324
+2020/04/13-16:49:39.656 8c4 Delete type=2 #333
+2020/04/13-16:49:39.657 8c4 Delete type=2 #326
+2020/04/13-16:49:39.657 8c4 Delete type=2 #328
+2020/04/13-16:50:17.743 8c4 Level-0 table #336: started
+2020/04/13-16:50:17.749 8c4 Level-0 table #336: 7700 bytes OK
+2020/04/13-16:50:17.755 8c4 Delete type=0 #332
+2020/04/13-16:50:55.873 8c4 Level-0 table #338: started
+2020/04/13-16:50:55.879 8c4 Level-0 table #338: 7689 bytes OK
+2020/04/13-16:50:55.886 8c4 Delete type=0 #335
+2020/04/13-16:51:33.984 8c4 Level-0 table #340: started
+2020/04/13-16:51:33.990 8c4 Level-0 table #340: 7693 bytes OK
+2020/04/13-16:51:34.006 8c4 Delete type=0 #337
+2020/04/13-16:52:12.120 8c4 Level-0 table #342: started
+2020/04/13-16:52:12.126 8c4 Level-0 table #342: 7693 bytes OK
+2020/04/13-16:52:12.132 8c4 Delete type=0 #339
+2020/04/13-16:52:12.132 8c4 Compacting 4@0 + 1@1 files
+2020/04/13-16:52:12.137 8c4 Generated table #343@0: 2 keys, 804 bytes
+2020/04/13-16:52:12.137 8c4 Compacted 4@0 + 1@1 files => 804 bytes
+2020/04/13-16:52:12.143 8c4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2020/04/13-16:52:12.143 8c4 Delete type=2 #336
+2020/04/13-16:52:12.143 8c4 Delete type=2 #334
+2020/04/13-16:52:12.143 8c4 Delete type=2 #340
+2020/04/13-16:52:12.143 8c4 Delete type=2 #342
+2020/04/13-16:52:12.143 8c4 Delete type=2 #338
+2020/04/13-16:52:50.300 8c4 Level-0 table #345: started
+2020/04/13-16:52:50.313 8c4 Level-0 table #345: 7687 bytes OK
+2020/04/13-16:52:50.320 8c4 Delete type=0 #341
+2020/04/13-16:53:28.496 8c4 Level-0 table #347: started
+2020/04/13-16:53:28.507 8c4 Level-0 table #347: 7690 bytes OK
+2020/04/13-16:53:28.515 8c4 Delete type=0 #344
+2020/04/13-16:54:06.665 8c4 Level-0 table #349: started
+2020/04/13-16:54:06.671 8c4 Level-0 table #349: 7691 bytes OK
+2020/04/13-16:54:06.678 8c4 Delete type=0 #346
+2020/04/13-16:55:01.233 8c4 Level-0 table #351: started
+2020/04/13-16:55:01.240 8c4 Level-0 table #351: 8480 bytes OK
+2020/04/13-16:55:01.247 8c4 Delete type=0 #348
+2020/04/13-16:55:01.247 8c4 Compacting 4@0 + 1@1 files
+2020/04/13-16:55:01.252 8c4 Generated table #352@0: 3 keys, 1188 bytes
+2020/04/13-16:55:01.252 8c4 Compacted 4@0 + 1@1 files => 1188 bytes
+2020/04/13-16:55:01.261 8c4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2020/04/13-16:55:01.262 8c4 Delete type=2 #343
+2020/04/13-16:55:01.262 8c4 Delete type=2 #347
+2020/04/13-16:55:01.262 8c4 Delete type=2 #349
+2020/04/13-16:55:01.262 8c4 Delete type=2 #351
+2020/04/13-16:55:01.262 8c4 Delete type=2 #345
+2020/04/13-16:55:30.322 8c4 Level-0 table #354: started
+2020/04/13-16:55:30.329 8c4 Level-0 table #354: 10052 bytes OK
+2020/04/13-16:55:30.337 8c4 Delete type=0 #350
+2020/04/13-16:55:59.397 8c4 Level-0 table #356: started
+2020/04/13-16:55:59.408 8c4 Level-0 table #356: 10054 bytes OK
+2020/04/13-16:55:59.414 8c4 Delete type=0 #353
+2020/04/13-16:56:28.455 8c4 Level-0 table #358: started
+2020/04/13-16:56:28.541 8c4 Level-0 table #358: 10055 bytes OK
+2020/04/13-16:56:28.683 8c4 Delete type=0 #355
+2020/04/13-16:56:57.608 8c4 Level-0 table #360: started
+2020/04/13-16:56:57.614 8c4 Level-0 table #360: 10060 bytes OK
+2020/04/13-16:56:57.621 8c4 Delete type=0 #357
+2020/04/13-16:56:57.621 8c4 Compacting 4@0 + 1@1 files
+2020/04/13-16:56:57.626 8c4 Generated table #361@0: 3 keys, 1189 bytes
+2020/04/13-16:56:57.626 8c4 Compacted 4@0 + 1@1 files => 1189 bytes
+2020/04/13-16:56:57.633 8c4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2020/04/13-16:56:57.635 8c4 Delete type=2 #358
+2020/04/13-16:56:57.635 8c4 Delete type=2 #354
+2020/04/13-16:56:57.635 8c4 Delete type=2 #360
+2020/04/13-16:56:57.635 8c4 Delete type=2 #352
+2020/04/13-16:56:57.635 8c4 Delete type=2 #356
+2020/04/13-16:57:26.731 8c4 Level-0 table #363: started
+2020/04/13-16:57:26.737 8c4 Level-0 table #363: 10056 bytes OK
+2020/04/13-16:57:26.754 8c4 Delete type=0 #359
+2020/04/13-16:58:27.801 8c4 Level-0 table #365: started
+2020/04/13-16:58:27.807 8c4 Level-0 table #365: 10295 bytes OK
+2020/04/13-16:58:27.815 8c4 Delete type=0 #362
+2020/04/13-16:59:13.395 8c4 Level-0 table #367: started
+2020/04/13-16:59:13.406 8c4 Level-0 table #367: 8594 bytes OK
+2020/04/13-16:59:13.413 8c4 Delete type=0 #364
+2020/04/13-16:59:59.015 8c4 Level-0 table #369: started
+2020/04/13-16:59:59.027 8c4 Level-0 table #369: 8587 bytes OK
+2020/04/13-16:59:59.034 8c4 Delete type=0 #366
+2020/04/13-16:59:59.034 8c4 Compacting 4@0 + 1@1 files
+2020/04/13-16:59:59.040 8c4 Generated table #370@0: 4 keys, 1496 bytes
+2020/04/13-16:59:59.040 8c4 Compacted 4@0 + 1@1 files => 1496 bytes
+2020/04/13-16:59:59.060 8c4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2020/04/13-16:59:59.063 8c4 Delete type=2 #367
+2020/04/13-16:59:59.063 8c4 Delete type=2 #365
+2020/04/13-16:59:59.063 8c4 Delete type=2 #361
+2020/04/13-16:59:59.063 8c4 Delete type=2 #369
+2020/04/13-16:59:59.063 8c4 Delete type=2 #363
+2020/04/13-17:00:44.603 8c4 Level-0 table #372: started
+2020/04/13-17:00:44.609 8c4 Level-0 table #372: 8578 bytes OK
+2020/04/13-17:00:44.616 8c4 Delete type=0 #368
+2020/04/13-17:01:30.188 8c4 Level-0 table #374: started
+2020/04/13-17:01:30.198 8c4 Level-0 table #374: 8600 bytes OK
+2020/04/13-17:01:30.222 8c4 Delete type=0 #371
+2020/04/13-17:02:15.809 8c4 Level-0 table #376: started
+2020/04/13-17:02:15.815 8c4 Level-0 table #376: 8583 bytes OK
+2020/04/13-17:02:15.822 8c4 Delete type=0 #373
+2020/04/13-17:03:01.423 8c4 Level-0 table #378: started
+2020/04/13-17:03:01.430 8c4 Level-0 table #378: 8589 bytes OK
+2020/04/13-17:03:01.437 8c4 Delete type=0 #375
+2020/04/13-17:03:01.437 8c4 Compacting 4@0 + 1@1 files
+2020/04/13-17:03:01.442 8c4 Generated table #379@0: 4 keys, 1496 bytes
+2020/04/13-17:03:01.442 8c4 Compacted 4@0 + 1@1 files => 1496 bytes
+2020/04/13-17:03:01.454 8c4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2020/04/13-17:03:01.455 8c4 Delete type=2 #370
+2020/04/13-17:03:01.455 8c4 Delete type=2 #372
+2020/04/13-17:03:01.455 8c4 Delete type=2 #374
+2020/04/13-17:03:01.455 8c4 Delete type=2 #378
+2020/04/13-17:03:01.455 8c4 Delete type=2 #376
+2020/04/13-17:03:47.065 8c4 Level-0 table #381: started
+2020/04/13-17:03:47.076 8c4 Level-0 table #381: 8594 bytes OK
+2020/04/13-17:03:47.083 8c4 Delete type=0 #377
+2020/04/13-17:04:32.741 8c4 Level-0 table #383: started
+2020/04/13-17:04:32.747 8c4 Level-0 table #383: 8584 bytes OK
+2020/04/13-17:04:32.760 8c4 Delete type=0 #380
+2020/04/13-17:05:18.342 8c4 Level-0 table #385: started
+2020/04/13-17:05:18.348 8c4 Level-0 table #385: 8591 bytes OK
+2020/04/13-17:05:18.355 8c4 Delete type=0 #382
+2020/04/13-17:06:03.959 8c4 Level-0 table #387: started
+2020/04/13-17:06:03.966 8c4 Level-0 table #387: 8569 bytes OK
+2020/04/13-17:06:03.973 8c4 Delete type=0 #384
+2020/04/13-17:06:03.973 8c4 Compacting 4@0 + 1@1 files
+2020/04/13-17:06:03.987 8c4 Generated table #388@0: 4 keys, 1496 bytes
+2020/04/13-17:06:03.987 8c4 Compacted 4@0 + 1@1 files => 1496 bytes
+2020/04/13-17:06:03.999 8c4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2020/04/13-17:06:04.000 8c4 Delete type=2 #385
+2020/04/13-17:06:04.000 8c4 Delete type=2 #387
+2020/04/13-17:06:04.000 8c4 Delete type=2 #379
+2020/04/13-17:06:04.000 8c4 Delete type=2 #383
+2020/04/13-17:06:04.000 8c4 Delete type=2 #381
+2020/04/13-17:06:49.567 8c4 Level-0 table #390: started
+2020/04/13-17:06:49.573 8c4 Level-0 table #390: 8567 bytes OK
+2020/04/13-17:06:49.579 8c4 Delete type=0 #386
+2020/04/13-17:07:35.162 8c4 Level-0 table #392: started
+2020/04/13-17:07:35.173 8c4 Level-0 table #392: 8587 bytes OK
+2020/04/13-17:07:35.181 8c4 Delete type=0 #389
+2020/04/13-17:08:20.748 8c4 Level-0 table #394: started
+2020/04/13-17:08:20.762 8c4 Level-0 table #394: 8615 bytes OK
+2020/04/13-17:08:20.772 8c4 Delete type=0 #391
+2020/04/13-17:09:06.321 8c4 Level-0 table #396: started
+2020/04/13-17:09:06.327 8c4 Level-0 table #396: 8570 bytes OK
+2020/04/13-17:09:06.335 8c4 Delete type=0 #393
+2020/04/13-17:09:06.335 8c4 Compacting 4@0 + 1@1 files
+2020/04/13-17:09:06.348 8c4 Generated table #397@0: 4 keys, 1497 bytes
+2020/04/13-17:09:06.348 8c4 Compacted 4@0 + 1@1 files => 1497 bytes
+2020/04/13-17:09:06.357 8c4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2020/04/13-17:09:06.358 8c4 Delete type=2 #390
+2020/04/13-17:09:06.358 8c4 Delete type=2 #392
+2020/04/13-17:09:06.358 8c4 Delete type=2 #388
+2020/04/13-17:09:06.358 8c4 Delete type=2 #394
+2020/04/13-17:09:06.358 8c4 Delete type=2 #396
+2020/04/13-17:09:51.919 8c4 Level-0 table #399: started
+2020/04/13-17:09:51.925 8c4 Level-0 table #399: 8596 bytes OK
+2020/04/13-17:09:51.932 8c4 Delete type=0 #395
+2020/04/13-17:10:37.511 8c4 Level-0 table #401: started
+2020/04/13-17:10:37.522 8c4 Level-0 table #401: 8473 bytes OK
+2020/04/13-17:10:37.530 8c4 Delete type=0 #398
+2020/04/13-17:11:23.133 8c4 Level-0 table #403: started
+2020/04/13-17:11:23.140 8c4 Level-0 table #403: 8500 bytes OK
+2020/04/13-17:11:23.146 8c4 Delete type=0 #400

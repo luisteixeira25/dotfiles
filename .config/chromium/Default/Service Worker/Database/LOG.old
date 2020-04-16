@@ -1,0 +1,4 @@
+2020/04/15-08:34:23.046 2f87 Reusing MANIFEST /home/wilson/.config/chromium/Default/Service Worker/Database/MANIFEST-000001
+2020/04/15-08:34:23.050 2f87 Recovering log #4
+2020/04/15-08:34:23.057 2f87 (ignoring error) /home/wilson/.config/chromium/Default/Service Worker/Database/000004.log: dropping 34 bytes; Corruption: missing start of fragmented record(2)
+2020/04/15-08:34:23.058 2f87 Reusing old log /home/wilson/.config/chromium/Default/Service Worker/Database/000004.log 

@@ -1,0 +1,28 @@
+{
+   "background": {
+      "page": "background.html",
+      "persistent": false
+   },
+   "browser_action": {
+      "default_icon": "img/enable.png",
+      "default_title": "__MSG_short_name__"
+   },
+   "content_scripts": [ {
+      "js": [ "script.js" ],
+      "matches": [ "*://*.wikipedia.org/*" ],
+      "run_at": "document_start"
+   } ],
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "icons": {
+      "48": "img/enable.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA2Hvj+FsIpWwR82IzegydL0Vg1zYueSAlS4hcyr/2Qv4VSo6se6gX5ly9VYXNC/qBROAdG9mJzvsg+cyK3HuqOoMr747K0xN5FJ2BOMm73AdBL/2p4w+DOJKp3BEy0s9hjCBhMvBXIWNMZ3IT1JVfHoDnDcNl8nQB6MyRKesxsM5eueLwXPGByiymuzjgicPF7WpK6ZmkuKR+kuNLY6H+I9fP+HEUWx4LhsLbydPsrBeB/yt3UqLlq7uPDWBsT1c6i2IDNTfKvMcedbf+PE39tX34Tl7YrVrt0TvHiDHWgXChnK2yQQQ7ZUOHoeCuPAMvbjmOtO8z+ZLyz2Fc9C9dzQIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_name__",
+   "permissions": [ "*://*.wikipedia.org/*" ],
+   "short_name": "__MSG_short_name__",
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.17",
+   "web_accessible_resources": [ "/theme/*.css" ]
+}

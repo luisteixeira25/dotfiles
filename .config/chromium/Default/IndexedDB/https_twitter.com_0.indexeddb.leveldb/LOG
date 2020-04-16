@@ -1,0 +1,6 @@
+2020/04/16-12:19:50.743 1b1 Reusing MANIFEST /home/wilson/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/16-12:19:50.743 1b1 Recovering log #3
+2020/04/16-12:19:50.857 1b1 Reusing old log /home/wilson/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/000003.log 
+2020/04/16-12:28:55.863 57d5 Level-0 table #5: started
+2020/04/16-12:28:55.908 57d5 Level-0 table #5: 1261669 bytes OK
+2020/04/16-12:28:55.922 57d5 Delete type=0 #3

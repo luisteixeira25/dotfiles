@@ -1,0 +1,32 @@
+2020/04/16-14:32:05.824 1e1b Reusing MANIFEST /home/wilson/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/16-14:32:05.824 1e1b Recovering log #559
+2020/04/16-14:32:05.827 1e1b Reusing old log /home/wilson/.config/chromium/Default/IndexedDB/https_drive.google.com_0.indexeddb.leveldb/000559.log 
+2020/04/16-14:32:13.473 57d5 Compacting 1@0 + 1@1 files
+2020/04/16-14:32:13.480 57d5 Level-0 table #565: started
+2020/04/16-14:32:13.487 2221 Current memtable full; waiting...
+2020/04/16-14:32:13.493 57d5 Level-0 table #565: 589272 bytes OK
+2020/04/16-14:32:13.500 57d5 Delete type=0 #559
+2020/04/16-14:32:13.501 57d5 Level-0 table #567: started
+2020/04/16-14:32:13.528 57d5 Level-0 table #567: 526129 bytes OK
+2020/04/16-14:32:13.535 57d5 Delete type=0 #564
+2020/04/16-14:32:13.570 57d5 Generated table #563@0: 886 keys, 1269420 bytes
+2020/04/16-14:32:13.570 57d5 Compacted 1@0 + 1@1 files => 1269420 bytes
+2020/04/16-14:32:13.598 57d5 compacted to: files[ 2 1 1 0 0 0 0 ]
+2020/04/16-14:32:13.598 57d5 Delete type=2 #560
+2020/04/16-14:32:13.598 57d5 Delete type=2 #561
+2020/04/16-14:32:13.913 57d5 Level-0 table #569: started
+2020/04/16-14:32:13.923 2221 Current memtable full; waiting...
+2020/04/16-14:32:13.936 57d5 Level-0 table #569: 557235 bytes OK
+2020/04/16-14:32:13.945 57d5 Delete type=0 #566
+2020/04/16-14:32:13.946 57d5 Level-0 table #571: started
+2020/04/16-14:32:13.985 57d5 Level-0 table #571: 521032 bytes OK
+2020/04/16-14:32:14.010 57d5 Delete type=0 #568
+2020/04/16-14:32:14.011 57d5 Compacting 4@0 + 1@1 files
+2020/04/16-14:32:14.053 57d5 Generated table #572@0: 892 keys, 1065901 bytes
+2020/04/16-14:32:14.053 57d5 Compacted 4@0 + 1@1 files => 1065901 bytes
+2020/04/16-14:32:14.060 57d5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/04/16-14:32:14.060 57d5 Delete type=2 #565
+2020/04/16-14:32:14.061 57d5 Delete type=2 #563
+2020/04/16-14:32:14.061 57d5 Delete type=2 #567
+2020/04/16-14:32:14.061 57d5 Delete type=2 #569
+2020/04/16-14:32:14.061 57d5 Delete type=2 #571

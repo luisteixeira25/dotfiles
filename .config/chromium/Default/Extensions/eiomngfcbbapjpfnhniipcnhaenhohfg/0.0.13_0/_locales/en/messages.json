@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Dark theme for all sites. Changes colors on sites to more pleasing to the eye and convenient to work on the Internet."
+   },
+   "name": {
+      "message": "Dark mode theme"
+   },
+   "short_name": {
+      "message": "Dark theme"
+   }
+}

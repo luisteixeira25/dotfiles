@@ -1,0 +1,16 @@
+
+
+-------session starts-------
+
+[4-16 17:28:34.579] INFO: Starting periodic scan.
+[4-16 17:28:34.600] INFO: Got the drag_and_drop directory
+[4-16 17:28:34.616] INFO: lsUserAddedMusicSourceIds=null
+[4-16 17:28:34.617] INFO: lsLastTrackFailureLoggingTime=null
+[4-16 17:28:34.617] INFO: lsSyncMusicEnabled=null
+[4-16 17:28:34.617] INFO: lsAppActivated=false
+[4-16 17:28:34.617] INFO: lsUserSelectedDownloadDirId=null
+[4-16 17:28:34.619] INFO: lsDefaultDownloadLocationId=null
+[4-16 17:28:34.620] INFO: Setting is already: lsAlwaysUseDefaultDownloadLocation = false
+[4-16 17:28:34.620] INFO: Setting is already: lsDefaultDownloadLocationId = null
+[4-16 17:28:35.159] INFO: Fetched user settings from server.
+[4-16 17:28:35.164] INFO: chromeapp:E ready

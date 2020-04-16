@@ -1,0 +1,35 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+
+   },
+   "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'",
+   "description": "A Portable Document Format (PDF) viewer based on Mozilla's PDF.js library",
+   "file_browser_handlers": [ {
+      "default_title": "Open with PDF Reader",
+      "file_filters": [ "filesystem:*.pdf" ],
+      "id": "open-as-pdf"
+   } ],
+   "homepage_url": "https://add0n.com/pdf-reader.html",
+   "icons": {
+      "128": "data/icons/128.png",
+      "16": "data/icons/16.png",
+      "18": "data/icons/18.png",
+      "19": "data/icons/19.png",
+      "256": "data/icons/256.png",
+      "32": "data/icons/32.png",
+      "36": "data/icons/36.png",
+      "38": "data/icons/38.png",
+      "48": "data/icons/48.png",
+      "512": "data/icons/512.png",
+      "64": "data/icons/64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzXm8USqUlvmf3qH3ANhSF0CRO3RedJ/YjYMz7XJBn/76h/LNOGyjw4QC0+TKEEUXSBQZUeCzQ6fUA/Sm2wdhCe2h8nL/OzgZDd28thuwP2PHSaY01k99KWvOncuBM/1P70cvoxkKFgIRpLOKXpmqvFc4s1gt6bcsH8AP77IoYqC+/lRwutZy5lr6rpPY2ymOtPy723xroZrGwiergYq8r2Ek5uuwhIBVzVjdt0oS8PZEYTIMFaKk/BQXtysfBjXqXLxNS6YWkP+lcRSKlAsUoDZJ+95fSJ6+gdGmtLpH7rI9mNI08/ctA2KoCl7guP38SJ91EJwfXNgYV5XU3blbIwIDAQAB",
+   "manifest_version": 2,
+   "name": "PDF Reader",
+   "permissions": [ "\u003Call_urls>", "tabs", "webNavigation", "webRequest", "webRequestBlocking", "storage", "contextMenus", "chrome://favicon/", "fileBrowserHandler" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.1.4"
+}

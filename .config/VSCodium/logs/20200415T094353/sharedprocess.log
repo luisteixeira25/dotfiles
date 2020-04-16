@@ -1,0 +1,20 @@
+[2020-04-15 09:43:57.022] [sharedprocess] [info] main {"machineId":"5fa40154c5d04c64063bb8809ea9c6a13681c3e488726c8a61ec8fa179eefce4","windowId":2}
+[2020-04-15 09:44:37.035] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-04-15 09:44:48.556] [sharedprocess] [info] Installing extension: ritwickdey.live-sass
+[2020-04-15 09:44:49.457] [sharedprocess] [info] Downloaded extension: ritwickdey.live-sass /tmp/aae9a9a9-bfee-48d9-b18c-559132d5e4d9
+[2020-04-15 09:44:50.772] [sharedprocess] [info] Extracted extension to /home/wilson/.vscode-oss/extensions/.ritwickdey.live-sass-3.0.0: ritwickdey.live-sass
+[2020-04-15 09:44:50.773] [sharedprocess] [info] Renamed to /home/wilson/.vscode-oss/extensions/ritwickdey.live-sass-3.0.0
+[2020-04-15 09:44:50.774] [sharedprocess] [info] Installation completed. ritwickdey.live-sass
+[2020-04-15 09:44:50.860] [sharedprocess] [info] Extensions installed successfully: ritwickdey.live-sass
+[2020-04-15 09:46:00.026] [sharedprocess] [info] Installing extension: mikestead.dotenv
+[2020-04-15 09:46:00.269] [sharedprocess] [info] Downloaded extension: mikestead.dotenv /tmp/7a94d1b4-6093-4008-bddc-275440a7c393
+[2020-04-15 09:46:00.289] [sharedprocess] [info] Extracted extension to /home/wilson/.vscode-oss/extensions/.mikestead.dotenv-1.0.1: mikestead.dotenv
+[2020-04-15 09:46:00.289] [sharedprocess] [info] Renamed to /home/wilson/.vscode-oss/extensions/mikestead.dotenv-1.0.1
+[2020-04-15 09:46:00.290] [sharedprocess] [info] Installation completed. mikestead.dotenv
+[2020-04-15 09:46:00.301] [sharedprocess] [info] Extensions installed successfully: mikestead.dotenv
+[2020-04-15 09:46:41.092] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2020-04-15 09:46:41.615] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /tmp/cd0b47f6-4de4-4ad2-a5a1-a71f5404b605
+[2020-04-15 09:46:41.789] [sharedprocess] [info] Extracted extension to /home/wilson/.vscode-oss/extensions/.esbenp.prettier-vscode-4.4.0: esbenp.prettier-vscode
+[2020-04-15 09:46:41.790] [sharedprocess] [info] Renamed to /home/wilson/.vscode-oss/extensions/esbenp.prettier-vscode-4.4.0
+[2020-04-15 09:46:41.791] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2020-04-15 09:46:41.800] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode

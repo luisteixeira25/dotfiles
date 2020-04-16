@@ -1,0 +1,33 @@
+00:00:00.479443 VirtualBox GUI VM Selector Window 6.1.4 r136177 linux.amd64 (Feb 18 2020 17:40:55) release log
+00:00:00.479448 Log opened 2020-04-13T20:11:36.438112000Z
+00:00:00.479450 Build Type: release
+00:00:00.479460 OS Product: Linux
+00:00:00.479463 OS Release: 4.19.0-8-amd64
+00:00:00.479466 OS Version: #1 SMP Debian 4.19.98-1 (2020-01-26)
+00:00:00.479526 DMI Product Name: MacBookAir5,2
+00:00:00.479550 DMI Product Version: 1.0
+00:00:00.479568 Firmware type: UEFI
+00:00:00.479595 Secure Boot: Disabled
+00:00:00.479715 Host RAM: 7885MB (7.7GB) total, 5013MB (4.8GB) available
+00:00:00.479726 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.479727 Process ID: 6228
+00:00:00.479729 Package type: LINUX_64BITS_DEBIAN_10_0
+00:00:00.479798 Qt version: 5.11.3
+00:00:00.526779 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.526818 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:00:01.028281 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 9x30 x 1418x857
+00:00:01.147004 refreshCertificates/#1: InMem.Cert.TbsCertificate.T3.Extensions.papItems[#].ExtnValue.NameConstraints.T0.PermittedSubtrees.papItems[#]: Unexpected sequence type/flags: 0x2/0x80 (expected 0x10/0x20)
+00:00:01.148838 refreshCertificates/#3: Found 1/127 SSL certs we/you trust (previously 0/0).
+00:01:00.329478 GUI: UIMediumEnumerator: Medium with key={{9685f143-2569-4b24-8f44-92477e8b4264}} created
+00:01:00.525541 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:01:07.027454 2D support test succeeded
+00:01:47.015215 GUI: UIMediumEnumerator: Medium with key={{4626140e-8e8b-4b1a-9993-e9788f0bb7e4}} created
+00:01:47.088166 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:03.139438 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:03.232908 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:02:10.984391 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:17:31.118468 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:29:31.216737 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:29:31.228421 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:31:36.175451 GUI: UIMediumEnumerator: Medium-enumeration finished!
+00:31:44.560504 GUI: UIMediumEnumerator: Medium-enumeration finished!

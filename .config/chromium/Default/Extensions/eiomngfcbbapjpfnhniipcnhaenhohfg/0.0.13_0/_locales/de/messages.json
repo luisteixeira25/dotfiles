@@ -1,0 +1,11 @@
+{
+   "description": {
+      "message": "Dunkles Thema für alle Seiten. Ändert die Farben auf Websites so, dass sie für das Auge angenehmer und für die Arbeit im Internet bequemer sind."
+   },
+   "name": {
+      "message": "Dunkler Modus für Browser"
+   },
+   "short_name": {
+      "message": "Dunkles Thema"
+   }
+}

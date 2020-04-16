@@ -1,0 +1,6 @@
+2020/04/15-08:34:23.016 2f87 Reusing MANIFEST /home/wilson/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/04/15-08:34:23.016 2f87 Recovering log #709
+2020/04/15-08:34:23.016 2f87 Reusing old log /home/wilson/.config/chromium/Default/Sync Data/LevelDB/000709.log 
+2020/04/15-08:34:42.167 318f Level-0 table #714: started
+2020/04/15-08:34:42.192 318f Level-0 table #714: 129686 bytes OK
+2020/04/15-08:34:42.198 318f Delete type=0 #709

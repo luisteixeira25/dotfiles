@@ -1,0 +1,14 @@
+2020/04/15-06:37:16.614 27a8 Reusing MANIFEST /home/wilson/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/04/15-06:37:16.614 27a8 Recovering log #208
+2020/04/15-06:37:16.701 27a8 Reusing old log /home/wilson/.config/chromium/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000208.log 
+2020/04/15-06:37:18.263 6479 Level-0 table #214: started
+2020/04/15-06:37:18.311 6479 Level-0 table #214: 1234690 bytes OK
+2020/04/15-06:37:18.321 6479 Delete type=0 #208
+2020/04/15-06:37:21.301 6479 Compacting 1@1 + 2@2 files
+2020/04/15-06:37:21.396 6479 Generated table #215@1: 21510 keys, 2588186 bytes
+2020/04/15-06:37:21.425 6479 Generated table #216@1: 501 keys, 661545 bytes
+2020/04/15-06:37:21.425 6479 Compacted 1@1 + 2@2 files => 3249731 bytes
+2020/04/15-06:37:21.443 6479 compacted to: files[ 0 0 2 0 0 0 0 ]
+2020/04/15-06:37:21.444 6479 Delete type=2 #214
+2020/04/15-06:37:21.444 6479 Delete type=2 #211
+2020/04/15-06:37:21.444 6479 Delete type=2 #210

@@ -1,0 +1,28 @@
+[2020-04-15 08:45:21.185] [exthost] [info] extension host started
+[2020-04-15 08:45:21.205] [exthost] [info] ExtensionService#_doActivateExtension mechatroner.rainbow-csv {"startup":false,"extensionId":{"value":"mechatroner.rainbow-csv","_lower":"mechatroner.rainbow-csv"},"activationEvent":"onLanguage:plaintext"}
+[2020-04-15 08:45:21.205] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/wilson/.vscode-oss/extensions/mechatroner.rainbow-csv-1.6.0/extension
+[2020-04-15 08:45:21.207] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2020-04-15 08:45:21.207] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/debug-auto-launch/dist/extension
+[2020-04-15 08:45:21.210] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2020-04-15 08:45:21.210] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/emmet/dist/extension
+[2020-04-15 08:45:21.218] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2020-04-15 08:45:21.218] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/git/dist/main
+[2020-04-15 08:45:21.232] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication {"startup":true,"extensionId":{"value":"vscode.github-authentication","_lower":"vscode.github-authentication"},"activationEvent":"*"}
+[2020-04-15 08:45:21.232] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/github-authentication/dist/extension.js
+[2020-04-15 08:45:21.234] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2020-04-15 08:45:21.234] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/merge-conflict/dist/extension
+[2020-04-15 08:45:21.236] [exthost] [info] ExtensionService#_doActivateExtension vscode.search-result {"startup":true,"extensionId":{"value":"vscode.search-result","_lower":"vscode.search-result"},"activationEvent":"*"}
+[2020-04-15 08:45:21.236] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/search-result/dist/extension.js
+[2020-04-15 08:45:21.237] [exthost] [info] ExtensionService#_doActivateExtension vscode.vscode-account {"startup":true,"extensionId":{"value":"vscode.vscode-account","_lower":"vscode.vscode-account"},"activationEvent":"*"}
+[2020-04-15 08:45:21.237] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/codium/resources/app/extensions/vscode-account/dist/extension.js
+[2020-04-15 08:45:21.238] [exthost] [info] ExtensionService#_doActivateExtension 2gua.rainbow-brackets {"startup":true,"extensionId":{"value":"2gua.rainbow-brackets","_lower":"2gua.rainbow-brackets"},"activationEvent":"*"}
+[2020-04-15 08:45:21.238] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/wilson/.vscode-oss/extensions/2gua.rainbow-brackets-0.0.6/out/src/extension
+[2020-04-15 08:45:21.239] [exthost] [info] ExtensionService#_doActivateExtension eamodio.gitlens {"startup":true,"extensionId":{"value":"eamodio.gitlens","_lower":"eamodio.gitlens"},"activationEvent":"*"}
+[2020-04-15 08:45:21.239] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/wilson/.vscode-oss/extensions/eamodio.gitlens-10.2.1/dist/extension
+[2020-04-15 08:45:21.258] [exthost] [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow {"startup":true,"extensionId":{"value":"oderwat.indent-rainbow","_lower":"oderwat.indent-rainbow"},"activationEvent":"*"}
+[2020-04-15 08:45:21.258] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/wilson/.vscode-oss/extensions/oderwat.indent-rainbow-7.4.0/out/extension
+[2020-04-15 08:45:21.259] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme {"startup":true,"extensionId":{"value":"PKief.material-icon-theme","_lower":"pkief.material-icon-theme"},"activationEvent":"*"}
+[2020-04-15 08:45:21.259] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/wilson/.vscode-oss/extensions/pkief.material-icon-theme-4.0.1/dist/extension
+[2020-04-15 08:45:21.271] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer {"startup":true,"extensionId":{"value":"ritwickdey.LiveServer","_lower":"ritwickdey.liveserver"},"activationEvent":"*"}
+[2020-04-15 08:45:21.271] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/wilson/.vscode-oss/extensions/ritwickdey.liveserver-5.6.1/out/src/extension
+[2020-04-15 08:45:21.580] [exthost] [info] eager extensions activated

@@ -1,0 +1,84 @@
+2020/04/15-08:43:53.971 3fad Reusing MANIFEST /home/wilson/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/04/15-08:43:53.971 3fad Recovering log #713
+2020/04/15-08:43:53.971 3fad Reusing old log /home/wilson/.config/chromium/Default/Sync Data/LevelDB/000713.log 
+2020/04/15-08:58:06.333 42a7 Level-0 table #717: started
+2020/04/15-08:58:06.343 42a7 Level-0 table #717: 104923 bytes OK
+2020/04/15-08:58:06.349 42a7 Delete type=0 #713
+2020/04/15-10:40:07.720 42a7 Level-0 table #719: started
+2020/04/15-10:40:07.730 42a7 Level-0 table #719: 93849 bytes OK
+2020/04/15-10:40:07.741 42a7 Delete type=0 #716
+2020/04/15-12:06:13.798 42a7 Level-0 table #721: started
+2020/04/15-12:06:13.818 42a7 Level-0 table #721: 93650 bytes OK
+2020/04/15-12:06:13.847 42a7 Delete type=0 #718
+2020/04/15-12:06:13.847 42a7 Compacting 4@0 + 1@1 files
+2020/04/15-12:06:13.883 42a7 Generated table #722@0: 166 keys, 26676 bytes
+2020/04/15-12:06:13.883 42a7 Compacted 4@0 + 1@1 files => 26676 bytes
+2020/04/15-12:06:13.895 42a7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/04/15-12:06:13.895 42a7 Delete type=2 #717
+2020/04/15-12:06:13.895 42a7 Delete type=2 #719
+2020/04/15-12:06:13.895 42a7 Delete type=2 #714
+2020/04/15-12:06:13.895 42a7 Delete type=2 #721
+2020/04/15-12:06:13.895 42a7 Delete type=2 #711
+2020/04/15-13:28:00.689 42a7 Level-0 table #724: started
+2020/04/15-13:28:00.699 42a7 Level-0 table #724: 105879 bytes OK
+2020/04/15-13:28:00.705 42a7 Delete type=0 #720
+2020/04/15-15:24:28.307 42a7 Level-0 table #726: started
+2020/04/15-15:24:28.346 42a7 Level-0 table #726: 100911 bytes OK
+2020/04/15-15:24:28.362 42a7 Delete type=0 #723
+2020/04/15-18:50:37.939 42a7 Level-0 table #728: started
+2020/04/15-18:50:37.954 42a7 Level-0 table #728: 95580 bytes OK
+2020/04/15-18:50:37.964 42a7 Delete type=0 #725
+2020/04/16-09:13:56.776 42a7 Level-0 table #730: started
+2020/04/16-09:13:56.785 42a7 Level-0 table #730: 98691 bytes OK
+2020/04/16-09:13:56.791 42a7 Delete type=0 #727
+2020/04/16-09:13:56.791 42a7 Compacting 4@0 + 1@1 files
+2020/04/16-09:13:56.805 42a7 Generated table #731@0: 166 keys, 21891 bytes
+2020/04/16-09:13:56.805 42a7 Compacted 4@0 + 1@1 files => 21891 bytes
+2020/04/16-09:13:56.810 42a7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/04/16-09:13:56.810 42a7 Delete type=2 #730
+2020/04/16-09:13:56.810 42a7 Delete type=2 #724
+2020/04/16-09:13:56.810 42a7 Delete type=2 #722
+2020/04/16-09:13:56.810 42a7 Delete type=2 #728
+2020/04/16-09:13:56.811 42a7 Delete type=2 #726
+2020/04/16-09:40:34.714 42a7 Level-0 table #733: started
+2020/04/16-09:40:34.737 42a7 Level-0 table #733: 89237 bytes OK
+2020/04/16-09:40:34.762 42a7 Delete type=0 #729
+2020/04/16-10:01:08.170 42a7 Level-0 table #735: started
+2020/04/16-10:01:08.179 42a7 Level-0 table #735: 89728 bytes OK
+2020/04/16-10:01:08.196 42a7 Delete type=0 #732
+2020/04/16-10:33:41.433 42a7 Level-0 table #737: started
+2020/04/16-10:33:41.459 42a7 Level-0 table #737: 86507 bytes OK
+2020/04/16-10:33:41.470 42a7 Delete type=0 #734
+2020/04/16-12:28:10.279 42a7 Level-0 table #739: started
+2020/04/16-12:28:10.298 42a7 Level-0 table #739: 92640 bytes OK
+2020/04/16-12:28:10.309 42a7 Delete type=0 #736
+2020/04/16-12:28:10.309 42a7 Compacting 4@0 + 1@1 files
+2020/04/16-12:28:10.322 42a7 Generated table #740@0: 166 keys, 23896 bytes
+2020/04/16-12:28:10.322 42a7 Compacted 4@0 + 1@1 files => 23896 bytes
+2020/04/16-12:28:10.333 42a7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/04/16-12:28:10.333 42a7 Delete type=2 #735
+2020/04/16-12:28:10.333 42a7 Delete type=2 #731
+2020/04/16-12:28:10.333 42a7 Delete type=2 #733
+2020/04/16-12:28:10.333 42a7 Delete type=2 #739
+2020/04/16-12:28:10.333 42a7 Delete type=2 #737
+2020/04/16-12:41:23.848 42a7 Level-0 table #742: started
+2020/04/16-12:41:23.859 42a7 Level-0 table #742: 93416 bytes OK
+2020/04/16-12:41:23.884 42a7 Delete type=0 #738
+2020/04/16-13:19:26.059 42a7 Level-0 table #744: started
+2020/04/16-13:19:26.100 42a7 Level-0 table #744: 92598 bytes OK
+2020/04/16-13:19:26.117 42a7 Delete type=0 #741
+2020/04/16-13:24:18.581 42a7 Level-0 table #746: started
+2020/04/16-13:24:18.589 42a7 Level-0 table #746: 89973 bytes OK
+2020/04/16-13:24:18.596 42a7 Delete type=0 #743
+2020/04/16-13:52:11.455 42a7 Level-0 table #748: started
+2020/04/16-13:52:11.465 42a7 Level-0 table #748: 90668 bytes OK
+2020/04/16-13:52:11.478 42a7 Delete type=0 #745
+2020/04/16-13:52:11.479 42a7 Compacting 4@0 + 1@1 files
+2020/04/16-13:52:11.487 42a7 Generated table #749@0: 166 keys, 25936 bytes
+2020/04/16-13:52:11.487 42a7 Compacted 4@0 + 1@1 files => 25936 bytes
+2020/04/16-13:52:11.493 42a7 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/04/16-13:52:11.494 42a7 Delete type=2 #746
+2020/04/16-13:52:11.494 42a7 Delete type=2 #744
+2020/04/16-13:52:11.494 42a7 Delete type=2 #742
+2020/04/16-13:52:11.494 42a7 Delete type=2 #748
+2020/04/16-13:52:11.494 42a7 Delete type=2 #740
