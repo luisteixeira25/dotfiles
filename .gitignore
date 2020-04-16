@@ -1,4 +1,4 @@
-*
-!.config/
-!.local/share/*
-.config/nvim/plugged/*
+.config/asdf
+.local/share/fonts
+.local/share/wallpapers
+.local/share/scripts
