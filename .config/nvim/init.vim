@@ -32,6 +32,7 @@ Plug 'nathanaelkane/vim-indent-guides'
 Plug 'tpope/vim-surround'
 Plug 'preservim/nerdcommenter'
 Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase' }
+PLug 'iamcco/markdown-preview.nvim'
 Plug 'mattn/emmet-vim'
 Plug 'sheerun/vim-polyglot'
 " Plug 'junegunn/seoul257.vim'
