@@ -31,7 +31,14 @@ compinit
 
 alias dotfiles='/usr/bin/git --git-dir=$HOME/git.repos/wmfaustino/dotfiles/ --work-tree=$HOME'
 alias vim=nvim
-alias l='ls -lAh --color --group-directories-first'
+
+alias ls='lsd --color --group-dirs'
+alias l='ls -lh'
+alias la='ls -a'
+alias lla='ls -lAh'
+alias lt='ls --tree'
+
+# alias l='ls -lAh --color --group-directories-first'
 alias grep=ag
 alias mkdir='mkdir -p'
 
