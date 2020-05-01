@@ -29,10 +29,12 @@ Plug 'tiagofumo/vim-nerdtree-syntax-highlight'
 Plug 'ryanoasis/vim-devicons'
 Plug 'vimwiki/vimwiki'
 Plug 'nathanaelkane/vim-indent-guides'
+Plug 'alvan/vim-closetag'
 Plug 'tpope/vim-surround'
-Plug 'preservim/nerdcommenter'
+"Plug 'preservim/nerdcommenter'
+Plug 'tpope/vim-commentary'
 Plug 'rrethy/vim-hexokinase', { 'do': 'make hexokinase' }
-PLug 'iamcco/markdown-preview.nvim'
+Plug 'iamcco/markdown-preview.nvim'
 Plug 'mattn/emmet-vim'
 Plug 'sheerun/vim-polyglot'
 " Plug 'junegunn/seoul257.vim'
@@ -91,3 +93,7 @@ let g:Hexokinase_highlighters = ['backgroundfull']
 
 " Reenable hexokinase on enter
 autocmd VimEnter * HexokinaseTurnOn
+
+" Vim Commentary
+map <C-/> gc<CR>
+
